@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Делаем новогоднее задание)</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+ <img src="img/лого.jpg">
+ <img src="img/пляж.jpg">
+ <img src="img/берег.jpg">
+ <img src="img/мир.jpg">
+ <img src="img/кот.jpg">
+ <img src="img/коктейли.jpg">
+ <img src="img/шезлонги.jpg">
+ <img src="img/закат.jpg">
+<body>
+	<link href="https://fonts.googleapis.com/css?family=Courgette|Libre+Baskerville|Lobster&display=swap" rel="stylesheet">
+ <p id="menu">Выпадающее меню у меня расположилось внизу, а не вверху как Вы просили)</p>
+	<center><h1>Турстическое агенство "Отдых нам не только снится!"</h1></center>
+  <div class="abc">Наше агенство предлагает отдых в разных уголках земного шара по привлекательной цене!</div>
+	<div class="def">Посетите вместе с нами удивительные места. Оставьте себе незабываемые впечатления!</div>
+	<ul class="spisok1">
+  	 <li class="">Велосипедом</li>
+  	 <li class="item">Автобусом</li>
+  	<li class="item">Кораблём</li>
+   	<li class="item">Самолётом</li>
+  	<li class="item">Пешком</li>
+	</ul>
+<div> <img src="img/пальмы.jpg">
+</div>
+<nav>
+  <ul class="topmenu">
+    <li><a href="">Весной</a>
+      <ul class="submenu">
+        <li><a target="_blank" href="img/егип.jpg">Египет</a></li>
+       <li><a target="_blank" href="img/венец.jpg">Венеция</a></li>
+        <li><a target="_blank" href="img/париж.jpg">Париж</a></li>
+      </ul>
+    </li>
+    <li><a href="">Летом</a>
+      <ul class="submenu">
+        <li><a target="_blank" href="img/англ.jpg">Англия</a></li>
+        <li><a target="_blank" href="img/исп.jpg">Испания</a></li>
+        <li><a target="_blank" href="img/турц.jpg">Турция</a></li>
+      </ul>
+    </li>
+    <li><a href="">Осенью</a>
+      <ul class="submenu">
+        <li><a target="_blank" href="img/крам.jpg">Краматорск</a></li>
+        <li><a target="_blank" href="img/черноб.jpg">Чернобыль</a></li>
+        <li><a target="_blank" href="img/рим.jpg">Рим</a></li>
+      </ul>
+    </li>
+    <li><a href="">Зимой</a>
+      <ul class="submenu">
+        <li><a target="_blank" href="img/мальд.jpg">Мальдивы</a></li>
+        <li><a target="_blank" href="img/зимнийлео.jpg">Львов</a></li>
+        <li><a target="_blank" href="img/япон.jpg">Япония</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div><a target="_blank" href="file:///C:/Users/Admin/Desktop/111/My%20work/%D0%B3%D0%BE%D1%80%D0%B8%D0%B7.%20%D0%BC%D0%B5%D0%BD%D1%8E/dop/index1.html">Наши контакты</div>
+
+<footer><a class="button" href="#top">наверх</footer>
+</body>
+</html>
