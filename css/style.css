@@ -7,6 +7,9 @@
     margin: 40px;
     font-size: 20px;
 }
+header{
+    text-align: center;
+}
 img{
 	border: 1px solid #000;
 	margin: 0 auto;
@@ -47,9 +50,9 @@ ul.topmenu{
    list-style: none;
    font-size: 20px;
 }
-nav { 
-    position: absolute;
-    margin-left: 250px;
+nav {
+    text-align: center;
+    margin-left: 0px;
     background-image: url("../img/1.jpg")
 }
 nav ul {
@@ -136,4 +139,7 @@ nav a {
 footer{
 	display: block;
 	margin-bottom: 50px;
+}
+center{
+    color: blue;
 }
