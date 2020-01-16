@@ -18,6 +18,18 @@ img{
   height: 100px;
   padding: 5px;
 }
+@media screen and (max-width: 1000px) {
+    img {width: 200px;
+        height: 175px;}
+}
+@media screen and (max-width: 850px) {
+    img {width: 250px;
+        height: 210px;}
+}
+@media screen and (max-width: 722px) {
+    img {width: 350px;
+        height: 300px;}
+}
 
 body{
   padding: 70px;
