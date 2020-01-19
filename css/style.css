@@ -147,7 +147,7 @@ center{
     color: blue;
 }
 @media screen and (max-width: 1000px) {
-    img {width: 200px;
+    img, img:hover {width: 200px;
         height: 175px;}
     ul.topmenu {
         font-size: 35px;
@@ -168,7 +168,7 @@ center{
         font-size: 25px;}
 }
 @media screen and (max-width: 850px) {
-    img {width: 250px;
+    img, img:hover {width: 250px;
         height: 215px;
     }
     ul.topmenu {
@@ -179,7 +179,7 @@ center{
     }
 }
 @media screen and (max-width: 722px) {
-    img {width: 340px;
+    img, img:hover {width: 340px;
         height: 300px;}
     ul.topmenu {
         font-size: 45px;
