@@ -1,36 +1,60 @@
 #menu{
 	 text-indent: 60px;
 	 display: inline-block;
-    padding: 10px 20px;
-    text-align: center;
-    width: 80%;
-    margin: 40px;
-    font-size: 20px;
+     padding: 10px 20px;
+     text-align: center;
+     width: 80%;
+     margin: 40px;
+     font-size: 20px;
 }
 header{
     text-align: center;
 }
 img{
 	border: 1px solid #000;
-	margin: 0 auto;
+	margin: 5px;
 	display: inline;
-  width: 120px;
-  height: 100px;
-  padding: 5px;
+    width: 120px;
+    height: 100px;
+    padding: 5px;
 }
 img:hover {
-    width: 160px;
-    height: 137px;
+    width: 140px;
+    height: 120px;
+    margin: 0;
+    padding: 0;
 }
 body{
-  padding: 70px;
-  margin-top: 50px;
-  position: static;
-  background-image: url("../img/1.jpg");
-  font-family: 'Courgette', cursive;
+    font-size: 25px;
+    padding: 70px;
+    margin-top: 50px;
+    position: static;
+    background-image: url("../img/1.jpg");
+    font-family: 'Courgette', cursive;
+}
+.adaptation{
+    position: relative;
+    border: 7px dotted #000;
+    background-color: #ffbf00;
+}
+.block1{
+    text-align: center;
+    color: #ff0000;
+    font-size: 50px;
+    margin-top: 40px;
+}
+.block2 img{
+    width: 40%;
+    height: auto;
+    margin: 0px 20px 20px 20px;
+    float: left;
+}
+.block3{
+    text-indent: 20px;
+    margin: 35px;
 }
 .abc{
-	font-size: 1.8em;
+	font-size: 1.6em;
 	text-indent: 30px;
 	margin: 50px;
 	font-family: 'Libre Baskerville', serif;
@@ -149,6 +173,23 @@ center{
 @media screen and (max-width: 1000px) {
     img, img:hover {width: 200px;
         height: 175px;}
+    .block1{
+        background-color: yellow;
+        margin-bottom: 30px;
+    }
+    .block2 img{
+        text-align: center;
+        float: none;
+        width:88%;
+        height: 80%;
+    }
+    .block2 img:hover{
+        width: 93%;
+        height: 80%;
+    }
+    .abc{
+        margin: 10px;
+    }
     ul.topmenu {
         font-size: 35px;
     }
