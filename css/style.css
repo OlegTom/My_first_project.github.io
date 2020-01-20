@@ -26,7 +26,7 @@ img:hover {
     padding: 4px;
 }
 body{
-    background-attachment: fixed;
+
     text-align: justify;
     font-size: 25px;
     padding: 70px;
@@ -34,6 +34,7 @@ body{
     position: static;
     background-image: url("../img/1.jpg");
     font-family: 'Courgette', cursive;
+    background-attachment: fixed;
 }
 .adaptation{
     position: relative;
