@@ -25,6 +25,7 @@ img:hover {
     padding: 0;
 }
 body{
+    text-align: justify;
     font-size: 25px;
     padding: 70px;
     margin-top: 50px;
